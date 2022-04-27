@@ -1,2 +1,2 @@
-# xevioussimplified
-This is an adaptation of the Namco joystick game Xevious, which was made by editing code from a project in my Python class at Cornell. We were tasked with recreating a simple copy of Space Invaders. After editing some of the main functionalities, I created a unique crossover between the two arcade games.
+# Xevious Game Copy
+This is an adaptation of the Namco joystick game Xevious, which was made by editing code from a project in my intro to Python class during my undergraduate studies at Cornell University. We were tasked with recreating a simple copy of Space Invaders. After editing some of the main functionalities and introducing new images, I created a unique crossover between the two arcade games.
