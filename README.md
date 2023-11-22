@@ -1,4 +1,4 @@
-# Xevious Game Copy
+# Xevious Game Remake
 
 ## To run:
 1. Clone repo
